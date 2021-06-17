@@ -274,4 +274,3 @@ int main() {
     cout << "use time: " << 1.0 * (en - st) / CLOCKS_PER_SEC * 1000 << " ms";
     return 0;
 }
-//29points有单点问题
